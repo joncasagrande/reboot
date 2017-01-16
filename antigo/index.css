@@ -1,0 +1,148 @@
+body {
+	background-color: #E8F2FC;
+	text-align: center;
+}
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #6FF;
+}
+a:hover {
+	text-decoration: none;
+	color: #6A7CA6;
+}
+a:active {
+	text-decoration: none;
+	color: #ADB7CD;
+}
+.linkao {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.linkao {
+	font-size: 36px;
+}
+.linkao {
+	text-align: right;
+}
+.linkao {
+	font-weight: bold;
+}
+.linkao {
+	color: #3B6DA3;
+}
+.linkao {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.linkao {
+	font-size: 18px;
+}
+.linkao {
+	text-align: left;
+}
+.linkao {
+	font-size: 24px;
+}
+.linkao {
+	font-size: medium;
+}
+.linkao {
+	font-size: 18px;
+}
+.linkao td {
+	text-align: center;
+}
+.menu_pai {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+}
+.menu_pai {
+	font-weight: bold;
+	font-size: 16px;
+}
+.menu_pai {
+	font-size: 24px;
+}
+.menu_pai {
+	text-align: center;
+}
+.menu_pai {
+	color: #FFF;
+}
+.menu_pai {
+	font-size: 16px;
+}
+.endereco {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+	color: #FFF;
+	font-weight: bold;
+	font-size: 12px;
+}
+.texto {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: left;
+	font-size: 16px;
+}
+.texto_bold {
+	font-weight: bold;
+}
+.menu_filho {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+}
+.indice {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-decoration: none;
+	margin: 5px;
+	padding: 5px;
+	background-color: #4C6492;
+	list-style-type: none;
+}
+.indice {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #FFF;
+	text-decoration: none;
+	background-color: #4C6492;
+	letter-spacing: normal;
+	text-align: left;
+	vertical-align: 60%;
+	word-spacing: normal;
+	margin: 5px;
+	padding: 5px;
+}
+.especialidades {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #273C6A;
+	text-decoration: none;
+	background-color: #FFF;
+	text-align: center;
+}
+.fabricante {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #002D62;
+	text-decoration: none;
+	background-color: #999;
+	text-align: left;
+	text-indent: 5px;
+}
