@@ -2975,7 +2975,7 @@ h1 {
     padding: 0 50px;
   }
   .c-layout-header .c-brand {
-    margin: 38px 0 37px 0;
+    margin: 8px 0 37px 0;
   }
   .c-layout-header .c-brand .c-desktop-logo-inverse {
     display: none;
@@ -3030,7 +3030,7 @@ h1 {
   }
   .c-page-on-scroll.c-layout-header-fixed .c-layout-header .c-brand {
     transition: margin 0.2s;
-    margin: 22px 0 19px 0;
+    margin: 0px 0 19px 0;
   }
   .c-page-on-scroll.c-layout-header-fixed .c-layout-header .c-brand .c-desktop-logo {
     display: none;
@@ -5877,7 +5877,7 @@ h1 {
 }
 .c-layout-footer.c-layout-footer-1 .c-prefooter .c-contact {
   color: #818e9a;
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 500;
   padding: 20px 0;
 }
